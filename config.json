@@ -2,9 +2,9 @@
   "username": "admin",
   "password": "password",
   "token": "0sC780XrUlX0E5d",
-  "db_host": "202.149.101.124",
-  "db_username": "permission_center",
-  "db_password": "P@ssw0rd01",
+  "db_host": "",
+  "db_username": "",
+  "db_password": "",
   "db_port": 3306,
   "db_name": "wifi-logger"
 }
